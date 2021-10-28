@@ -1,4 +1,4 @@
-# hello-word
+# hello-world
 
 My name is Sam and I am new to the world of coding!
 
